@@ -41,3 +41,5 @@ composer require ykaej/aliyun
 
 逻辑：通过tenancy的website自动生成唯一的uuid，然后绑定域名，同时通过laraveldiamante使用阿里云自动化生成子域名解析即可。
 
+好处：数据库等信息，可以进行自动化的隔离。
+
