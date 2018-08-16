@@ -18,8 +18,9 @@
   * a记录
   * cname记录
 * [分布式架构](fen-bu-shi-jia-gou.md)
-  * nginx分布式
-  * 健康检查
+  * [nginx分布式](fen-bu-shi-jia-gou/nginxfen-bu-shi.md)
+  * [健康检查](fen-bu-shi-jia-gou/jian-kang-jian-cha.md)
 * [saas架构](saasjia-gou.md)
   * [多租户系统](saasjia-gou/duo-zu-hu-xi-tong.md)
+  * 数据库合离
 
