@@ -16,12 +16,20 @@
   * [类](fu-yong/lei.md)
 * [自动化](zi-dong-hua.md)
 * [域名解析](yu-ming.md)
-  * a记录
-  * cname记录
+  * [a记录](yu-ming/aji-lu.md)
+  * [cname记录](yu-ming/cnameji-lu.md)
 * [分布式架构](fen-bu-shi-jia-gou.md)
   * [nginx分布式](fen-bu-shi-jia-gou/nginxfen-bu-shi.md)
   * [健康检查](fen-bu-shi-jia-gou/jian-kang-jian-cha.md)
 * [saas架构](saasjia-gou.md)
   * [多租户系统](saasjia-gou/duo-zu-hu-xi-tong.md)
-  * 数据库合离
+  * [数据库合离](saasjia-gou/shu-ju-ku-he-li.md)
+  * [域名空间生成](saasjia-gou/zi-ding-yi-yu-ming-sheng-cheng.md)
+* [产品](chan-pin-jia-gou.md)
+  * [需求](chan-pin-jia-gou/xu-qiu.md)
+  * [原型](chan-pin-jia-gou/she-ji.md)
+  * [设计](chan-pin-jia-gou/she-ji.md)
+  * [最小化可行产品](chan-pin-jia-gou/mvp.md)
+  * 商业模式
+  * [市场探索方式](chan-pin-jia-gou/shi-chang-tan-suo-fang-shi.md)
 
