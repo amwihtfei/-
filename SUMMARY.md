@@ -40,4 +40,8 @@
   * [团队储备和建设](chan-pin-jia-gou/tuan-dui-chu-bei-he-jian-she.md)
     * 储备
     * [建设](chan-pin-jia-gou/tuan-dui-chu-bei-he-jian-she/jian-she.md)
+* [持续集成、测试、部署](chi-xu-ji-cheng-he-bu-shu.md)
+  * 持续集成
+  * 持续测试
+  * 持续部署
 
