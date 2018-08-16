@@ -14,7 +14,6 @@
     * composer编写后端功能包
     * [composer编写前端页面包](fu-yong/composerbao/composerbian-xie-qian-duan-ye-mian-bao.md)
   * [类](fu-yong/lei.md)
-* [自动化](zi-dong-hua.md)
 * [域名解析](yu-ming.md)
   * [a记录](yu-ming/aji-lu.md)
   * [cname记录](yu-ming/cnameji-lu.md)
