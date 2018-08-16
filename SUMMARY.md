@@ -10,8 +10,9 @@
   * [监听](jie-ou/jian-ting.md)
 * [复用](fu-yong.md)
   * [composer包](fu-yong/composerbao.md)
-    * composer编写前端页面包
+    * composer包开发教程
     * composer编写后端功能包
+    * [composer编写前端页面包](fu-yong/composerbao/composerbian-xie-qian-duan-ye-mian-bao.md)
   * [类](fu-yong/lei.md)
 * [自动化](zi-dong-hua.md)
 * [域名解析](yu-ming.md)
