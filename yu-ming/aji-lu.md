@@ -39,5 +39,5 @@ composer require ykaej/aliyun
 
 #### saas系统，租户和域名的绑定
 
-
+逻辑：通过tenancy的website自动生成唯一的uuid，然后绑定域名，同时通过laraveldiamante使用阿里云自动化生成子域名
 
