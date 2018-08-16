@@ -32,4 +32,5 @@
   * [最小化可行产品](chan-pin-jia-gou/mvp.md)
   * 商业模式
   * [市场探索方式](chan-pin-jia-gou/shi-chang-tan-suo-fang-shi.md)
+  * [开发](chan-pin-jia-gou/kai-fa.md)
 
