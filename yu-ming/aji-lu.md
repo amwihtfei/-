@@ -13,7 +13,9 @@
 
 composer包：
 
-
+```
+composer require ykaej/aliyun
+```
 
 #### saas系统，租户和域名的绑定
 
