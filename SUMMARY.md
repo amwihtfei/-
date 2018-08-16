@@ -38,4 +38,7 @@
   * 商业模式
   * [市场探索方式](chan-pin-jia-gou/shi-chang-tan-suo-fang-shi.md)
   * [开发](chan-pin-jia-gou/kai-fa.md)
+  * [团队储备和建设](chan-pin-jia-gou/tuan-dui-chu-bei-he-jian-she.md)
+    * 储备
+    * [建设](chan-pin-jia-gou/tuan-dui-chu-bei-he-jian-she/jian-she.md)
 
